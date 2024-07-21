@@ -12,7 +12,7 @@ A facial emotion recognition system developed using deep learning techniques to 
 
 - Python
 - OpenCV
-- Keras
+- Tensorflow
 - DeepFace
 
 ## Installation

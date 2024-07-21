@@ -1,9 +1,6 @@
-# Facial-Emotion-Recognition
-Developed a facial emotion recognition system using Python, OpenCV, and tensorflow, achieving high accuracy in real-time emotion detection through deep learning techniques.
-
 # Facial Emotion Recognition System
 
-A facial emotion recognition system developed using deep learning techniques to accurately detect and classify human emotions in real-time. This project utilizes Python, OpenCV, Keras, and DeepFace libraries.
+A facial emotion recognition system developed using deep learning techniques to accurately detect and classify human emotions in real-time. This project utilizes Python, OpenCV, Tensorflow, and DeepFace libraries.
 
 ## Features
 
